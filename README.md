@@ -8,7 +8,7 @@
 
 <h2 align="center">I am studying at Sunrin Internet High School 🏫</h2>
 
-## 🙋‍♂️ About Me
+## 🌠 About Me
 
 >I am a student frontend developer who loves to grow through learning and collaboration.<br>
 >My goal is to develop program that makes a real, positive impact on people and society.
