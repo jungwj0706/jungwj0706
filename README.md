@@ -10,8 +10,7 @@
 
 ## 🌠 About Me
 
->I am a student frontend developer who loves to grow through learning and collaboration.<br>
->My goal is to develop program that makes a real, positive impact on people and society.
+>I am a student frontend developer who loves to grow through learning and collaboration.
 
 ---
 
