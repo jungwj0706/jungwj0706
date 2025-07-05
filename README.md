@@ -10,7 +10,7 @@
 
 ## 🌠 About Me
 
->I am a student frontend developer who loves to grow through learning and collaboration.
+>A student frontend developer who loves to grow through learning and collaboration.
 
 ---
 
