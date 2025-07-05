@@ -66,5 +66,5 @@
 
 ## 📬 Contact
 
-- Discord: jungwj0706
-- Email: woox1jin@gmail.com
+- 💬 Discord: jungwj0706  
+- 📧 Email: [woox1jin@gmail.com](mailto:woox1jin@gmail.com)
