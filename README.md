@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64a3cd,100:156093&height=230&section=header&text=Hello%20there!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64a3cd,100:156093&height=170&section=header&text=Hello%20there!👋&fontSize=60&fontColor=FFFFFF" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2700&size=24&pause=1000&color=FFBA46&center=true&vCenter=true&width=435&lines=I+am+Woojin+Jung!;Welcome+to+my+GitHub+%F0%9F%91%80" />
