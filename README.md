@@ -61,7 +61,5 @@
 
 ## 📬 Contact with Me
 
-<p>
-  <a href="https://discord.com/users/jungwj0706" target="_blank"><img src="https://img.shields.io/badge/Discord-jungwj0706-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:woox1jin@gmail.com"><img src="https://img.shields.io/badge/Email-woox1jin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- Discord: jungwj0706
+- Email: woox1jin@gmail.com
