@@ -61,5 +61,14 @@
 
 ## 📬 Contact with Me
 
-- Discord: jungwj0706
-- Email: woox1jin@gmail.com
+<div> 
+  <a href="mailto:woox1jin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-woox1jin@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discord.com/users/jungwj0706" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-jungwj0706-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
+  <a href="https://velog.io/@jungwj0706/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-jungwj0706-333333?style=for-the-badge&logo=velog&logoColor=20C997" />
+  </a>
+</div>
