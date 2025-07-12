@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2700&size=24&pause=1000&color=FFBA46&center=true&vCenter=true&width=435&lines=I+am+Woojin+Jung!;Welcome+to+my+GitHub+%F0%9F%91%80" />
 </div>
 
+---
+
 ## 🌠 About Me
 
 > I am a student frontend developer who loves to grow through learning and collaboration. <br />
