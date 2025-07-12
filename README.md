@@ -9,12 +9,13 @@
 
 ## 🌠 About Me
 
-> A student frontend developer who loves to grow through learning and collaboration, currently studying at Sunrin Internet High School.
+> I am a student frontend developer who loves to grow through learning and collaboration. <br />
+> My goal is to become a developer who can contribute to social development.
 
 ---
 
 ## 🎯 Tech Stack
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -30,7 +31,7 @@
 ---
 
 ## 🛠 Development Environment
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
