@@ -48,7 +48,7 @@
 |--------|--------------|------|
 | July 2023 - Nov 2023 | Sunrin SW Gifted Education Center | Team Lead (Team 열심히했조) |
 | July 2024 - Nov 2024 | Sunrin SW Gifted Education Center | Team Lead (Team 1336) |
-| May 2025 – July 2025 | [Team Nox](https://github.com/Nox-Collaby) | Team Member |
+| May 2025 – July 2025 | TAPIE (Web/App Dev Club) | Team Member [(Team Nox)](https://github.com/Nox-Collaby)  |
 
 ---
 
