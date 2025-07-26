@@ -60,6 +60,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jungwj0706&show_icons=true&theme=react&hide_border=true" alt="Woojin Jung's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungwj0706&layout=compact&theme=react&hide_border=true&count_private=true" />
+</div>
+
+---
+
 ## 📬 Contact with Me
 
 <div>
