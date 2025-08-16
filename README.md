@@ -1,12 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F90CC,100:436288&height=200&section=header&text=Hello%20there!👋&fontSize=50&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F90CC,100:436288&height=200&section=header&text=Hello%20there!👋&fontSize=65&fontColor=FFFFFF" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&size=24&pause=1000&color=FFBA46&center=true&vCenter=true&width=435&lines=I+am+Woojin+Jung!;Welcome+to+my+GitHub+%F0%9F%91%80" />
-</div>
-
----
 
 <h2 align="center">🌠 About Me</h2>
 <div align="center">
