@@ -5,9 +5,9 @@
 
 <h2 align="center">🌠 About Me</h2>
 <div align="center">
-  <p>📚 Student Frontend Developer passionate about growth, collaboration, and making a positive social impact.</p>
-  <p>🌱 Love learning new technologies and building meaningful projects with others.</p>
-  <p>🚀 My goal is to become a developer who creates value for both people and society.</p>
+  <p>📚 <strong>Student Frontend Developer</strong> passionate about growth, collaboration, and making a positive social impact.</p>
+  <p>🌱 Love learning <strong>new technologies</strong> and building <strong>meaningful projects</strong> with others.</p>
+  <p>🚀 My goal is to become a developer who <strong>creates value for both people and society</strong>.</p>
 </div>
 
  <br />
