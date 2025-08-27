@@ -1,14 +1,14 @@
 <div  align="center">
   <h1>👋 Hi, I'm Woojin Jung!</h1>
-  <p>I'm studying at Sunrin Internet High School.</p>
+  <p>I'm studying at <strong>Sunrin Internet High School</strong>.</p>
 </div>
 
 ---
 
 ## 🌠 About Me
-- 📚 Student Frontend Developer passionate about growth, collaboration, and making a positive social impact.  
-- 🌱 Love learning new technologies and building meaningful projects with others.  
-- 🚀 My goal is to become a developer who creates value for both people and society. 
+- 📚 **Student Frontend Developer** passionate about growth, collaboration, and making a positive social impact.  
+- 🌱 Love **learning new technologies** and **building meaningful projects** with others.  
+- 🚀 My goal is to become a developer who **creates value for both people and society**. 
 
 <br />
 
