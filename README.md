@@ -1,5 +1,5 @@
 <div  align="center">
-  <h1>👋 Hello, I'm Woojin Jung!</h1>
+  <h1>👋 Hi, I'm Woojin Jung!</h1>
   <p>I'm studying at Sunrin Internet High School.</p>
 </div>
 
