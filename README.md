@@ -1,5 +1,5 @@
 <div  align="center">
-  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Woojin Jung!</h1>
+  <h1>👋 Hi, I'm Woojin Jung!</h1>
   <p>I'm studying at <strong>Sunrin Internet High School</strong>.</p>
 </div>
 
