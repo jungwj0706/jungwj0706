@@ -1,7 +1,13 @@
-<div  align="center">
+<div align="center">
   <h1>👋 Hi, I'm Woojin Jung!</h1>
-  <p>I'm studying at <strong>Sunrin Internet High School</strong>.</p>
+  <p>
+    I'm studying at 
+    <a href="https://sunrint.sen.hs.kr/"><strong>Sunrin Internet High School</strong></a>
+    and 
+    <a href="https://tapie.kr"><strong>TAPIE</strong></a>.
+  </p>
 </div>
+
 
 ---
 
