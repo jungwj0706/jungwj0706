@@ -51,15 +51,6 @@
 <br />
 
 ## 💌 Contact with Me
-<a href="mailto:woox1jin@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-woox1jin@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a> 
-<a href="https://discord.com/users/1326453569666154508" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-jungwj0706-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
-</a> 
-<a href="https://www.instagram.com/woox1jin_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@woox1jin-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a> 
-<a href="https://velog.io/@jungwj0706/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-jungwj0706-333333?style=for-the-badge&logo=velog&logoColor=20C997" />
-</a>
+- Gmail: <a href="mailto:woox1jin@gmail.com">woox1jin@gmail.com</a>
+- Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj0706</a>
+- Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
