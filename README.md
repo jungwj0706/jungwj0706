@@ -11,9 +11,9 @@
 ---
 
 ## 📍 About Me
-- 📚 **Student Frontend Developer** passionate about growth, collaboration, and making a positive social impact.  
-- 🌱 Love **learning new technologies** and **building meaningful projects** with others.  
-- 🚀 My goal is to become a developer who **creates value for both people and society**. 
+- **Student Frontend Developer** passionate about growth, collaboration, and making a positive social impact.  
+- Love **learning new technologies** and **building meaningful projects** with others.  
+- My goal is to become a developer who **creates value for both people and society**. 
 
 <br />
 
