@@ -17,7 +17,7 @@
 
 <br />
 
-## ⚡️ Tech Stack  
+## 🛠 Tech Stack  
 > **I mainly use these**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +50,7 @@
 
 <br />
 
-## 💌 Contact with Me
+## 📬 Contact with Me
 - Gmail: <a href="mailto:woox1jin@gmail.com">woox1jin@gmail.com</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj0706</a>
 - Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
