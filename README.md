@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Woojin Jung
 
-- 💻 **Student Frontend Developer** focusing on Web & Mobile development.  
-- 🚀 Passionate about growth, collaboration, and creating a positive social impact.  
-- ⚡️ Enjoy exploring new technologies and building meaningful projects with others.  
+- **Student Frontend Developer** focusing on Web & Mobile development.  
+- Passionate about growth, collaboration, and creating a positive social impact.  
+- Enjoy exploring new technologies and building meaningful projects with others.  
 
 ### 🛠️ Tech Stacks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
