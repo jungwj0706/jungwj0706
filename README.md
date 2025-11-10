@@ -1,8 +1,5 @@
-<div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115a87,100:0a496f&height=180&section=header&text=Woojin%20Jung&fontSize=90&fontColor=FFFFFF" /> 
-</div>
+## 👋 Hi, I'm Woojin Jung
 
-### 🌠 About Me
 - **Student Frontend Developer** focusing on Web & Mobile development.  
 - Passionate about growth, collaboration, and creating a positive social impact.  
 - Enjoy exploring new technologies and building meaningful projects with others.  
