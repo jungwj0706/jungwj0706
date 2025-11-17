@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115a87,100:0a496f&height=180&section=header&text=Woojin%20Jung&fontSize=90&fontColor=FFFFFF" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:115a87,100:0a496f&height=170&section=header&text=Woojin%20Jung&fontSize=80&fontColor=FFFFFF" /> 
 </div>
 
 ### 🌠 About Me
@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stacks
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
