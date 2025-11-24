@@ -4,7 +4,7 @@
 - Passionate about growth, collaboration, and creating a positive social impact.  
 - Enjoy exploring new technologies and building meaningful projects with others.
 
-<br />
+---
 
 ### 🛠️ Tech Stacks
 
@@ -26,7 +26,7 @@
 ![Electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br />
+---
 
 ### 📬 Contacts 
 > 💬 Open to collaboration, feedback, or just a friendly chat - feel free to reach out! 
