@@ -31,6 +31,6 @@
 ### 📬 Contacts 
 > 💬 Open to collaboration, feedback, or just a friendly chat - feel free to reach out! 
 - Gmail: <a href="mailto:woox1jin@gmail.com">woox1jin@gmail.com</a>
-- Linkedin: <a href-"https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
+- Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
 - Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
