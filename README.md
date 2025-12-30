@@ -35,3 +35,9 @@
 - Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
 - Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
+
+---
+
+<div align="center">
+  <h3>🔥 Engineering a better world with the warmth of technology.</h3>
+</div>
