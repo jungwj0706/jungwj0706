@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Woojin Jung
 
-- **Student Frontend/Mobile App Developer** studying at [Sunrin Internet High School](https://sunrint.sen.hs.kr/).  
+- **Student Frontend/App Developer** studying at [Sunrin Internet High School](https://sunrint.sen.hs.kr/).  
 - Passionate about growth, collaboration, and creating a positive social impact.  
 - Enjoy exploring new technologies and building meaningful projects with others.
 
