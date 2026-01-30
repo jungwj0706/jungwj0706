@@ -1,12 +1,11 @@
-## 👋 Hi, I'm Woojin Jung
-
-- **Student Frontend/App Developer** studying at [Sunrin Internet High School](https://sunrint.sen.hs.kr/).  
-- Passionate about growth, collaboration, and creating a positive social impact.  
-- Enjoy exploring new technologies and building meaningful projects with others.
+## 👋 안녕하세요, 정우진입니다
+- [선린인터넷고](https://sunrint.sen.hs.kr/)에 재학 중인 프론트엔드•앱 개발자입니다.
+- 기술을 통해 문제를 해결하고, 사회에 긍정적인 영향을 주는 서비스를 개발하는 데 관심이 많습니다.
+- 성장과 협업을 중요하게 생각하며, 새로운 기술을 탐구하고 의미 있는 프로젝트를 개발하는 과정을 즐깁니다.
 
 ---
 
-### 🛠️ Tech Stacks
+### 🛠️ 기술 스택
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,15 +28,8 @@
 
 ---
 
-### 📬 Contacts 
-> 💬 Open to collaboration, feedback, or just a friendly chat - feel free to reach out! 
+### 📬 연락처 
 - Gmail: <a href="mailto:woox1jin@gmail.com">woox1jin@gmail.com</a>
 - Linkedin: <a href="https://www.linkedin.com/in/jungwj09/">in/jungwj09</a>
 - Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
 - Instagram: <a href="https://www.instagram.com/woox1jin_/" target="_blank">@woox1jin_</a>
-
----
-
-<div align="center">
-  <h3>🔥 Engineering a better world with the warmth of technology.</h3>
-</div>
