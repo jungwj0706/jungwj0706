@@ -56,5 +56,5 @@
 
 ### 📬 Contact
 - Email: <a href="mailto:me@jungwj09.dev">me@jungwj09.dev</a>
-- Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj09</a> 
-- Instagram: <a href="https://www.instagram.com/jungwj09.dev/" target="_blank">@jungwj09.dev</a>
+- Discord: <a href="https://discord.com/users/1326453569666154508" target="_blank">jungwj0706</a> 
+- Instagram: <a href="https://www.instagram.com/dev_jowa/" target="_blank">@dev_jowa</a>
