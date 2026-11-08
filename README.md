@@ -43,6 +43,7 @@
 - 제1회 SCSC 온라인 해커톤 3등
 - 2026 춘천시 데이터 활용 해커톤 노력상
 - GEEKs Hackathon 2026 우수상
+- 2026 KAMCO Startup TechBlaze 우수상
 
 ---
 
